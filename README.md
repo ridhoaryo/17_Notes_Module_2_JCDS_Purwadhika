@@ -1,9 +1,11 @@
 # Notes & Quiz Days 17 Purwadhika JCDS Module 2
 
-Pada repo ini, saya akan menjelaskan project saya,
+Pada repo ini, saya akan menjelaskan project saya pada file **5_rest_api_quiz_sportsdb.py**
 
 ```
-Bagaimana cara memanggil API dari web sportsdb.com. Dan secara langsung menyimpan ke dalam format .xlsx, .json dan .csv. 
+Bagaimana cara memanggil API dari web sportsdb.com.
+Dan secara langsung menyimpan ke dalam format .xlsx, .json dan .csv.
+Dalam project ini saya ingin mendapatkan data dari tim Real Madrid. Hasilnya bisa diliaht di real madrid.csv, real madrid.json, real madrid.xlsx
 ```
 Data yang kita ambil berdasarkan nama tim, dan kita akan mengekstrak nama pemain, posisi, usia dan negara asalnya.
 
